@@ -1,0 +1,88 @@
+h1 {
+  font-family: "IM Fell Double Pica", serif;
+  text-align: center;
+}
+h4 {
+  font-style: italic;
+  text-align: right;
+}
+
+div {
+  padding: 20px;
+  background-color: #f0f8f8;
+}
+
+table tr td {
+  border: 10px solid #f0f8f8;
+}
+
+table {
+  border: 20px solid rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px;
+}
+#one {
+  background-color: #e6c212;
+  height: 250px;
+  width: 100px;
+}
+#two {
+  background-color: #6fab16;
+  height: 250px;
+  width: 100px;
+}
+#three {
+  background-color: #0ec265;
+  height: 250px;
+  width: 100px;
+}
+#four {
+  background-color: #12a392;
+  height: 250px;
+  width: 100px;
+}
+#five {
+  background-color: #2f71a3;
+  height: 250px;
+  width: 100px;
+}
+#six {
+  background-color: #393470;
+  height: 250px;
+  width: 100px;
+}
+#seven {
+  background-color: #745375;
+  height: 250px;
+  width: 100px;
+}
+#eight {
+  background-color: #a14d62;
+  height: 250px;
+  width: 100px;
+}
+#nine {
+  background-color: #d44848;
+  height: 250px;
+  width: 100px;
+}
+#ten {
+  background-color: #db532a;
+  height: 250px;
+  width: 100px;
+}
+#eleven {
+  background-color: #e36b20;
+  height: 250px;
+  width: 100px;
+}
+#twelve {
+  background-color: #de871d;
+  height: 250px;
+  width: 100px;
+}
+#thirteen {
+  background-color: #ebad02;
+  height: 250px;
+  width: 100px;
+}
